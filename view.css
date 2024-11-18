@@ -1,0 +1,28 @@
+.card{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    border: 1px rgba(4, 172, 4, 0.884) solid;
+    align-content: center;
+    margin: 0 auto; 
+    height: 300px;
+    box-shadow: 0 0 20px rgba(4, 172, 4, 0.884);
+}
+
+.card-header{
+    height: 30%;
+    background: rgba(4, 172, 4, 0.884);
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card-header p{
+    font-size: 20px;
+}
+
+.container{
+    padding: 4px 30px;
+    
+}
+
