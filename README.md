@@ -1,4 +1,5 @@
-# Gilbert John Gallega
+# Gilbert John Gallega - React with API using Node Express
+
 ## Dependecies I downloaded :
 * npm init y
 * npm install express
