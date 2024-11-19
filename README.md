@@ -24,5 +24,20 @@
 
 if you want to check if you successfully perform POST,DELETE,PUT  you can check it by GET all the list of user or with specific id
 
+## Getting data in the server 
+
+In getting data in the server I used axios 
+
+* Home.jsx file is responsible for getting(GET) the all list of users and the deleting user(DELETE)
+* AddEdit file is for adding(POST) and updating(PUT) user
+* View file is for viewing the user contacts(number and email)
+* Header is for the header and navigator (HOME AND ADD USER) 
+
+### Before making a request , type **node index.js** in the terminal to run the server
+
+and i didnt put const data in the list of users so the home file has no data 
+
+
+
 
   
